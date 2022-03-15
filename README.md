@@ -7,7 +7,7 @@
 I'm a  ``Software Engineer `` and I'm doing a master's degree in artificial intelligence.I am currently working as an android developer. I want to produce useful resources both for myself and for those working in this field by actively using my Github account.
 
 </p>
-![](https://hit.yhype.me/github/profile?user_id=23128176)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ridvanozcan" alt="Parply" />
     <a href="https://github.com/ridvanozcan/"><img src="https://img.shields.io/github/followers/ridvanozcan?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
@@ -57,7 +57,7 @@ I'm a  ``Software Engineer `` and I'm doing a master's degree in artificial inte
 
 <!--
 **ridvanozcan/ridvanozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://hit.yhype.me/github/profile?user_id=23128176)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
