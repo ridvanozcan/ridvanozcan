@@ -4,7 +4,7 @@
 <p align="center">
   
 
-I'm a  ``Software Engineer `` and I'm doing a master's degree in artificial intelligence.I am currently working as an android developer. I want to produce useful resources both for myself and for those working in this field by actively using my Github account.
+I am a Software Engineer with a Master's degree in artificial intelligence. I am currently working as an android developer. By actively using my Github account, I want to produce useful resources for both myself and those working in this field.
 
 </p>
 
