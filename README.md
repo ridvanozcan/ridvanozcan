@@ -42,14 +42,6 @@ I am a Software Engineer with a Master's degree in artificial intelligence. I am
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridvanozcan)
 
-
-
-
-<h4>Profile stats 💻</h4>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ridvanozcan&show_icons=true" alt="RıdvanOzcan :: Profile Stats" />
-
-
 <!--
 **ridvanozcan/ridvanozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://hit.yhype.me/github/profile?user_id=23128176)
