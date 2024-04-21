@@ -18,7 +18,6 @@ I am a Software Engineer with a Master's degree in artificial intelligence. I am
 <p align="center">
   <a href="mailto:ridvanozcan48@hotmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/mr.softwareengineer/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="http://ridvanozcan.com.tr/"><img src="https://img.shields.io/badge/Web%20Site-9146FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ridvanozcan/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
