@@ -38,10 +38,6 @@ I am a Software Engineer with a Master's degree in artificial intelligence. I am
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4>Top languages 💻</h4>
-
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridvanozcan&hide=assembly,pawn,hack&langs_count=15&layout=compact)
-
 <h4>Top status 💻</h4>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridvanozcan)
